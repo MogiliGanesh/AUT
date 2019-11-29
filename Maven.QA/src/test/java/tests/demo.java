@@ -6,6 +6,7 @@ public class demo {
 
 
 		System.out.println("hi*****");
+		System.out.println("hi***...........**");
 
 	}
 
